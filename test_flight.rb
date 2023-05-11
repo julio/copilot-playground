@@ -15,5 +15,4 @@ class Flight
   def database
     MAP_NAME_TO_AGE
   end
-
 end
